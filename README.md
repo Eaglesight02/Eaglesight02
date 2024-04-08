@@ -23,7 +23,6 @@
 
 ### 👨 About Me:
 I am a Deep Learning enthusiast from India 🇮🇳.
-- 👔 Currently working in [CloudKarya Inc.](https://cloudkarya.com/) as a Software Engineer.
 - 🧠 Interested in Gen-AI applications.
 - ⚡ In my free time I solve DSA problems in various platforms:
   - [Leetcode](https://leetcode.com/Eaglesight02/)
